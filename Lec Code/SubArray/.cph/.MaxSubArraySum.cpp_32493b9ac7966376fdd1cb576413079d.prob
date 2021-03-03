@@ -1,0 +1,1 @@
+{"name":"Local: MaxSubArraySum","url":"k:\\Placement\\Apna College C++\\Lec Code\\SubArray\\MaxSubArraySum.cpp","tests":[{"id":1613878746924,"input":"5\n-1 2 5 -2 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"k:\\Placement\\Apna College C++\\Lec Code\\SubArray\\MaxSubArraySum.cpp","group":"local","local":true}
